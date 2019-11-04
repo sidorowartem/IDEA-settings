@@ -1,0 +1,36 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Bluefoot5432" uuid="20682d5b-1276-4fd2-8878-fa4dc92f1231">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/bluefoot</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="FDS" read-only="true" uuid="11a35735-14cb-4c62-b7da-a52a829d41af">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-35-170-19-214.compute-1.amazonaws.com:5432/fds</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="FDS_with_replica" uuid="2573256c-88d5-4120-b7d2-40cc4b590f62">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-34-200-252-229.compute-1.amazonaws.com:5432/fds</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="[AWS] IFI Claims" read-only="true" uuid="9f47c309-8889-42a6-9fdc-fd0532501775">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-159-120-32.compute-1.amazonaws.com:5432/alexandria</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="FDS_PROD" uuid="ac0b9dfa-c7d9-4f2d-9d41-a1ae1b59a10c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-35-169-107-60.compute-1.amazonaws.com:5432/fds</jdbc-url>
+    </data-source>
+  </component>
+</application>
