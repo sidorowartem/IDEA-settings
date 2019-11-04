@@ -6,8 +6,15 @@
     <keyboard-shortcut first-keystroke="shift alt q" />
   </action>
   <action id="FindUsagesInFile" />
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl f7" />
