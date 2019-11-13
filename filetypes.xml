@@ -7,8 +7,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="D18__Add_Stock_Id_To_Calculated.sql" type="SQL" />
       <mapping pattern="D18__Add_Stock_Id_To_Calculated" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
