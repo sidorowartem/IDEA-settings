@@ -56,4 +56,7 @@
       </list>
     </option>
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/MyFolder/workspace/BamLabs/BAM_Services" />
+  </component>
 </application>
