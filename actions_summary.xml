@@ -245,16 +245,16 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025583149" />
-              <option name="times" value="1" />
+              <option name="last" value="1582034947007" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1582025618299" />
-              <option name="times" value="2" />
+              <option name="last" value="1582034956970" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582022159176" />
-              <option name="times" value="1" />
+              <option name="last" value="1582034542188" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -362,6 +362,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.notification.NotificationAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582034968547" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582034547211" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
@@ -381,8 +397,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582027461814" />
-              <option name="times" value="6" />
+              <option name="last" value="1582034926008" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
