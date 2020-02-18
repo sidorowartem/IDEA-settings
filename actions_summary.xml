@@ -26,6 +26,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582022541247" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
