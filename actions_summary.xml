@@ -21,8 +21,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119680078" />
-              <option name="times" value="4" />
+              <option name="last" value="1582135973320" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -354,19 +354,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Git.Merge.Abort">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582135563031" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119573119" />
-              <option name="times" value="6" />
+              <option name="last" value="1582135866116" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.ResolveConflicts">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113413730" />
-              <option name="times" value="4" />
+              <option name="last" value="1582135692866" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,16 +661,24 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119736454" />
-              <option name="times" value="5" />
+              <option name="last" value="1582135899945" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119725900" />
-              <option name="times" value="12" />
+              <option name="last" value="1582135923266" />
+              <option name="times" value="13" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582135893983" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +693,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$RebaseAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582101015878" />
-              <option name="times" value="1" />
+              <option name="last" value="1582135943877" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
