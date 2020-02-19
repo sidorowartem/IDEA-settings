@@ -21,8 +21,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582027463115" />
-              <option name="times" value="1" />
+              <option name="last" value="1582107194418" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -62,6 +62,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582098114914" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CopyElement">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582107182373" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -365,8 +373,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582099999149" />
-              <option name="times" value="19" />
+              <option name="last" value="1582107128022" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +517,8 @@
         <entry key="Vcs.ShowTabbedFileHistory">
           <value>
             <ActionSummary>
-              <option name="last" value="1582097280854" />
-              <option name="times" value="3" />
+              <option name="last" value="1582107198999" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,16 +589,16 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106326830" />
-              <option name="times" value="4" />
+              <option name="last" value="1582107201405" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582100753233" />
-              <option name="times" value="20" />
+              <option name="last" value="1582107161463" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
