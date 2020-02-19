@@ -93,8 +93,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582117764376" />
-              <option name="times" value="293" />
+              <option name="last" value="1582119742689" />
+              <option name="times" value="295" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112665513" />
-              <option name="times" value="14" />
+              <option name="last" value="1582119846267" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582114331002" />
-              <option name="times" value="4" />
+              <option name="last" value="1582119736454" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -663,6 +663,14 @@
             <ActionSummary>
               <option name="last" value="1582119725900" />
               <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582119788170" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
