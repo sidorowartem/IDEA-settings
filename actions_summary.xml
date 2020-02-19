@@ -21,8 +21,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582114363876" />
-              <option name="times" value="3" />
+              <option name="last" value="1582119680078" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,16 +349,16 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1582100970401" />
-              <option name="times" value="3" />
+              <option name="last" value="1582119548216" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1582110616534" />
-              <option name="times" value="5" />
+              <option name="last" value="1582119573119" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -517,8 +517,8 @@
         <entry key="Vcs.ShowTabbedFileHistory">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107198999" />
-              <option name="times" value="4" />
+              <option name="last" value="1582119683546" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,16 +597,16 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107201405" />
-              <option name="times" value="5" />
+              <option name="last" value="1582119695758" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107161463" />
-              <option name="times" value="22" />
+              <option name="last" value="1582119561461" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582114322447" />
-              <option name="times" value="10" />
+              <option name="last" value="1582119725900" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -670,6 +670,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582101015878" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582119677609" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
