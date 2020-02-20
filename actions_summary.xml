@@ -125,8 +125,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582210117913" />
-              <option name="times" value="68" />
+              <option name="last" value="1582214005374" />
+              <option name="times" value="69" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1582206961340" />
-              <option name="times" value="11" />
+              <option name="last" value="1582213471974" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="Git.Pull">
           <value>
             <ActionSummary>
-              <option name="last" value="1582206973726" />
-              <option name="times" value="11" />
+              <option name="last" value="1582214078816" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="Vcs.ShowTabbedFileHistory">
           <value>
             <ActionSummary>
-              <option name="last" value="1582204605745" />
-              <option name="times" value="11" />
+              <option name="last" value="1582213492043" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -730,6 +730,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582214023392" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
@@ -765,16 +773,16 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582202787836" />
-              <option name="times" value="11" />
+              <option name="last" value="1582213494699" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582204613589" />
-              <option name="times" value="32" />
+              <option name="last" value="1582212891294" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,8 +845,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582209545162" />
-              <option name="times" value="22" />
+              <option name="last" value="1582214010857" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +861,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197379072" />
-              <option name="times" value="2" />
+              <option name="last" value="1582214004645" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
