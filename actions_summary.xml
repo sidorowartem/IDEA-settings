@@ -597,8 +597,8 @@
         <entry key="Vcs.ShowTabbedFileHistory">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119683546" />
-              <option name="times" value="5" />
+              <option name="last" value="1582200032693" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582119695758" />
-              <option name="times" value="7" />
+              <option name="last" value="1582200570937" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
