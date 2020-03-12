@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="UserSettingsRepository" type="CLASS" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="D18__Add_Stock_Id_To_Calculated.sql" type="SQL" />
       <mapping pattern="D18__Add_Stock_Id_To_Calculated" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -11,7 +12,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
